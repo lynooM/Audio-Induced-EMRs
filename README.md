@@ -1,7 +1,10 @@
 # EMR Inteference signal test
-Two audios were obtained under the influence of the interference signal. <br>
--
 
+Two audios were obtained under the influence of the interference signal.
+
+-Recovered speech audio with interference: under the 
+
+-Re
   
 - Original audio
 - Interference audio <br>
