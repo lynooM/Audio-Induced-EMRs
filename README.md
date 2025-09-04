@@ -19,4 +19,11 @@ The interference audios<br>
     
 - interference_audio_100Hz_75%.wav <br>
 
+- interference_audio_50Hz_25%.wav <br>
+
+- interference_audio_50Hz_50%.wav <br>
+
+- interference_audio_50Hz_75%.wav <br>
+
+- interference_audio_50Hz_100%.wav <br>
   
