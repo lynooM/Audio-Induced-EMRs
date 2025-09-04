@@ -1,7 +1,10 @@
-# Inteference audio test
+# EMR Inteference signal test
+Two audios were obtained under the influence of the interference signal. <br>
+-
 
+  
 - Original audio
-- Interference audio
+- Interference audio <br>
     interference_audio_20Hz_75%.wav <br>
     interference_audio_40Hz_75%.wav <br>
     interference_audio_60Hz_75%.wav <br>
